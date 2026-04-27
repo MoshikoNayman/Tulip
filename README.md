@@ -21,16 +21,16 @@ Tulip is a desktop networking utility for working with IPv4 and IPv6 prefixes. I
 
 ## Release Contents
 
-- macOS DMG release artifact for Tulip Planner
+- macOS DMG release for Tulip Planner
 - Tagged production releases only
 
 ## Release Status
 
 - Current release: 26.2R1-S1
-- Current designation: production release artifact
+- Current designation: production release
 - Stable designation: not yet assigned
 
-Current artifact:
+Current download:
 - `Tulip Planner_26.2R1-S1_aarch64.dmg`
 
 ## Platforms
@@ -45,4 +45,4 @@ Development work is maintained in the Tulip-Dev repository:
 
 - https://github.com/MoshikoNayman/Tulip-Dev
 
-This repository is reserved for production releases and release artifacts.
+This repository is reserved for production releases and release downloads.
