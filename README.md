@@ -6,13 +6,14 @@ By Moshiko Nayman.
 
 Proprietary software. All rights reserved.
 
-## Download — 26.2R1-S1
+## Download 26.2R1-S1
 
 | Platform | File |
 |----------|------|
-| macOS (Apple Silicon) | [Tulip Planner_26.2R1-S1_aarch64.dmg](Tulip%20Planner_26.2R1-S1_aarch64.dmg) |
-| Windows (x64) | [Tulip Planner_0.1.0_x64-setup.exe](Tulip%20Planner_0.1.0_x64-setup.exe) |
-| Linux (AppImage / deb) | [Releases page](https://github.com/MoshikoNayman/Tulip/releases/tag/26.2R1-S1) |
+| macOS (Apple Silicon) | [Tulip.Planner_26.2R1-S1_aarch64.dmg](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip.Planner_26.2R1-S1_aarch64.dmg) |
+| Windows (x64) | [Tulip Planner_0.1.0_x64-setup.exe](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip%20Planner_0.1.0_x64-setup.exe) |
+| Linux AppImage | [Tulip.Planner_0.1.0_amd64.AppImage](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip.Planner_0.1.0_amd64.AppImage) |
+| Linux deb | [Tulip.Planner_0.1.0_amd64.deb](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip.Planner_0.1.0_amd64.deb) |
 
 ## What Is Tulip
 
