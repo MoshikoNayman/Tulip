@@ -22,6 +22,7 @@ Tulip is a desktop networking utility for working with IPv4 and IPv6 prefixes. I
 ## Release Contents
 
 - macOS DMG release for Tulip Planner
+- Windows installer EXE release for Tulip Planner
 - Tagged production releases only
 
 ## Release Status
@@ -32,6 +33,7 @@ Tulip is a desktop networking utility for working with IPv4 and IPv6 prefixes. I
 
 Current download:
 - `Tulip Planner_26.2R1-S1_aarch64.dmg`
+- `Tulip Planner_0.1.0_x64-setup.exe`
 
 ## Platforms
 
