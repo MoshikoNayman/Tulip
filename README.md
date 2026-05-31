@@ -15,7 +15,7 @@ Proprietary software. All rights reserved.
 | Platform | File |
 |----------|------|
 | macOS (Apple Silicon) | [Tulip.Planner_26.2R1-S1_aarch64.dmg](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip.Planner_26.2R1-S1_aarch64.dmg) |
-| Windows (x64) | [Tulip Planner_26.2R1-S1_x64-setup.exe](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip%20Planner_26.2R1-S1_x64-setup.exe) |
+| Windows (x64) | [Tulip.Planner_26.2R1-S1_x64-setup.exe](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip.Planner_26.2R1-S1_x64-setup.exe) |
 | Linux (AppImage) | [Tulip.Planner_26.2R1-S1_amd64.AppImage](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip.Planner_26.2R1-S1_amd64.AppImage) |
 | Linux (deb) | [Tulip.Planner_26.2R1-S1_amd64.deb](https://github.com/MoshikoNayman/Tulip/releases/download/26.2R1-S1/Tulip.Planner_26.2R1-S1_amd64.deb) |
 
